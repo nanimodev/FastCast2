@@ -9,7 +9,7 @@
 --local Rep = game:GetService("ReplicatedStorage")
 --local FastCast2Module = Rep:WaitForChild("FastCast2")
 
-local FastCast2Module: ModuleScript = script:WaitForChild("FastCast2").Value :: ModuleScript
+local FastCast2Module: ModuleScript = script:WaitForChild("fastcast2").Value :: ModuleScript
 
 
 -- Requires
